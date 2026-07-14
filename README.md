@@ -1,7 +1,9 @@
-### Hi there 👋
+### What I work on
+- Agentic RAG - RAGAS, Agent Development Kit, Opensearch, Langchain
+- Model Finetuning - Transformers, PEFT(QLoRA, LoRA)
+- Backend Development - FastAPI, AWS (SQS, S3, ECS, Lambda)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=uneetkumarsingh&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uneetkumarsingh&langs_count=5&theme=tokyonight)]()
+
 <!--
 **uneetkumarsingh/uneetkumarsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
