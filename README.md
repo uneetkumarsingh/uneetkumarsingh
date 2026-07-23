@@ -1,20 +1,18 @@
+### Hi, I'm Uneet
+
+I build and ship ML systems end to end — from retrieval and agents to fine-tuning and the backends that keep them running in production.
+
 ### What I work on
-- Agentic RAG - RAGAS, Agent Development Kit, Opensearch, Langchain
-- Model Finetuning - Transformers, PEFT(QLoRA, LoRA)
-- Backend Development - FastAPI, AWS (SQS, S3, ECS, Lambda)
 
+**Agentic RAG**  
+Designing retrieval-augmented pipelines that go beyond single-shot Q&A: multi-step agents, evaluation with RAGAS, OpenSearch for retrieval, and LangChain / Agent Development Kit for orchestration.
 
-<!--
-**uneetkumarsingh/uneetkumarsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Model fine-tuning**  
+Adapting foundation models with Hugging Face Transformers and parameter-efficient methods (LoRA, QLoRA via PEFT) when full fine-tuning isn't the right tradeoff.
 
-Here are some ideas to get you started:
+**Backend development**  
+Building APIs and cloud infrastructure around those models — FastAPI services on AWS (SQS, S3, ECS, Lambda) so inference and data pipelines stay reliable at scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+`LangChain` · `RAGAS` · `OpenSearch` · `Transformers` · `PEFT` · `FastAPI` · `AWS`
